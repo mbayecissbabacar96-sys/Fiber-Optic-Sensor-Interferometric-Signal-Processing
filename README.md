@@ -51,8 +51,8 @@ This type of sensor is critical in high-constraint environments where electromag
 ---
 
 ## 📄 Project Resources
-* 📄 **Scientific Report:** [Download PDF](report/Simulation_avancée_d_un_capteur_optique_à_fibre_et_analyse_interférométrique.pdf)
-* 💻 **Source Code:** [Python Script](src/optical_sensor_simulation.py)
+* 📄 **Scientific Report:** [Download PDF](report/rapport_complet.pdf)
+* 💻 **Source Code:** [Python Script](src/script_simulation.py)
 
 ---
 **Babacar NDIAYE** | *Master 2 Applied Physics – Nanophysics & Optics* | *Université du Mans*
