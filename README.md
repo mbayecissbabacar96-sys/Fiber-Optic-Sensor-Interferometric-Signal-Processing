@@ -51,8 +51,8 @@ This type of sensor is critical in high-constraint environments where electromag
 ---
 
 ## 📄 Project Resources
-* 📄 **Scientific Report:** [Download PDF](report/rapport_complet.pdf)
-* 💻 **Source Code:** [Python Script](src/script_simulation.py)
+* 📄 **Scientific Report:** [Download PDF](./rapport_complet.pdf)
+* 💻 **Source Code:** [Python Script](./script_simulation.py)
 
 ---
 **Babacar NDIAYE** | *Master 2 Applied Physics – Nanophysics & Optics* | *Université du Mans*
